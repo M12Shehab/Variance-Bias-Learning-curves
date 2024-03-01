@@ -12,7 +12,7 @@ The primary objective of this project is to demonstrate how to analyze learning 
 - **Optimal Model Complexity**: An optimal model complexity is achieved when the training and cross-validation curves intersect, indicating a well-balanced model.
 ## Tutorial:
 
-[Jupyter Notebook](Variance-Bias-Learning-curves/Learning_Curveipynb.ipynb). 
+[Jupyter Notebook](Learning_Curveipynb.ipynb). 
 
 
 ## Conclusion
