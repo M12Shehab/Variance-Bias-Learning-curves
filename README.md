@@ -1,4 +1,4 @@
-# Diagnosing Bias and Variance using Learning Curves
+# Diagnosing Bias and Variance using learning curve
 
 ## Overview
 This tutorial focuses on diagnosing bias and variance in machine learning models using learning curves. It provides a comprehensive understanding of these key concepts and their impact on model performance.
