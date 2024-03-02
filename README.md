@@ -1,10 +1,10 @@
-# Diagnosing Bias and Variance using learning curve
-
+# Diagnosing Bias and Variance using the learning curve
+By Mohammed A. Shehab
 ## Overview
-This tutorial focuses on diagnosing bias and variance in machine learning models using learning curves. It provides a comprehensive understanding of these key concepts and their impact on model performance.
+This tutorial uses learning curves to diagnose bias and variance in machine learning models. It provides a comprehensive understanding of these key concepts and their impact on model performance.
 
 ## Objective
-The primary objective of this project is to demonstrate how to analyze learning curves for both training and cross-validation datasets to diagnose bias and variance issues in machine learning models.
+The primary objective of this project is to demonstrate how to analyze learning curves for training and cross-validation datasets to diagnose bias and variance issues in machine learning models.
 
 ## Key Concepts
 - **High Bias**: A model exhibits high bias if the gap between the training and cross-validation curves is significant, indicating underfitting.
@@ -16,4 +16,4 @@ The primary objective of this project is to demonstrate how to analyze learning 
 
 
 ## Conclusion
-This tutorial provides valuable insights into diagnosing bias and variance in machine learning models using learning curves. By understanding and addressing these issues, practitioners can enhance model performance and build more robust machine learning systems.
+This tutorial provides valuable insights into diagnosing bias and variance in machine learning models using learning curves. Practitioners can enhance model performance and build more robust machine-learning systems by understanding and addressing these issues.
